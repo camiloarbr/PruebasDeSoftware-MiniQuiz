@@ -1,6 +1,6 @@
 # sistema_pedidos.py
 # Código funcional con problemas reales 
-
+# Hola
 import os
 
 class PedidoManager:
