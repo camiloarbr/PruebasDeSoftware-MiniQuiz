@@ -13,7 +13,7 @@ def test_aprobado_borde():
     assert evaluar_estudiante(60, 0) == "APROBADO"
 
 def test_sobresaliente_borde():
-    assert evaluar_estudiante(90, 0) == "REPROBADO"
+    assert evaluar_estudiante(90, 0) == "SOBRESALIENTE"
 
 #pruebas de error
 def test_nota_negativa():
